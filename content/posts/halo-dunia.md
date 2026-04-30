@@ -1,6 +1,6 @@
 +++
 date = '2026-04-30T15:01:46+07:00'
-draft = true
+draft = false
 title = 'Halo Dunia'
 +++
 ### Selamat Datang di Catatan-Bun!
