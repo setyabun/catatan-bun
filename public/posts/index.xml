@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Catatan Bun</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Catatan Bun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 15:01:46 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Halo Dunia</title>
+      <link>http://localhost:1313/posts/halo-dunia/</link>
+      <pubDate>Thu, 30 Apr 2026 15:01:46 +0700</pubDate>
+      <guid>http://localhost:1313/posts/halo-dunia/</guid>
+      <description>&lt;h3 id=&#34;selamat-datang-di-catatan-bun&#34;&gt;Selamat Datang di Catatan-Bun!&lt;/h3&gt;&#xA;&lt;p&gt;Ini adalah tulisan pertama saya setelah belajar Hugo lagi dari awal.&#xA;&lt;strong&gt;Rencana kedepan:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mencatat hasil &lt;em&gt;ngoprek&lt;/em&gt; STB.&lt;/li&gt;&#xA;&lt;li&gt;Dokumentasi setup server.&lt;/li&gt;&#xA;&lt;li&gt;Belajar Docker dan Cloudflare.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Catatan Pertama</title>
+      <link>http://localhost:1313/posts/catatan-pertama/</link>
+      <pubDate>Thu, 30 Apr 2026 14:54:09 +0700</pubDate>
+      <guid>http://localhost:1313/posts/catatan-pertama/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
