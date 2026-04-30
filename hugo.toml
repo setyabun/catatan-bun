@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://catatan-bun.pages.dev/'
 locale = 'en-us'
 title = 'Catatan Bun'
 theme = "ananke" 
