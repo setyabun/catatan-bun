@@ -9,3 +9,4 @@ Ini adalah tulisan pertama saya setelah belajar Hugo lagi dari awal.
 * Mencatat hasil *ngoprek* STB.
 * Dokumentasi setup server.
 * Belajar Docker dan Cloudflare.
+Siap-siap pusing lagi ah.
