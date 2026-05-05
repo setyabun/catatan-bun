@@ -1,7 +1,9 @@
-#local_backend: true
+local_backend: true
 backend:
-  name: git-gateway
+  name: github
+  repo: setyabun/catatan-bun
   branch: main
+  proxy_url: http://localhost:8081/api/v1 # Ini tetap di sini sebagai cadangan
 
 # Folder untuk menyimpan gambar yang kamu upload via CMS
 media_folder: "static/images" 
