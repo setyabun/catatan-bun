@@ -1,7 +1,7 @@
 ---
 title: Siapakah si Hugo
 date: 2026-10-08T21:37:00.000+07:00
-draft: true
+draft: false
 ---
 ![](/images/main-hugo.png)
 
