@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Catatan-Bun</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/catatan-bun/posts/</link>
     <description>Recent content in Posts on Catatan-Bun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Setyabun</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 15:53:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Oct 2026 15:53:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/catatan-bun/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Halo Dunia ! - Hello World !</title>
-      <link>http://localhost:1313/posts/halo-dunia/</link>
+      <link>http://localhost:1313/catatan-bun/posts/halo-dunia/</link>
       <pubDate>Thu, 08 Oct 2026 15:53:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/halo-dunia/</guid>
+      <guid>http://localhost:1313/catatan-bun/posts/halo-dunia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Main main dengan Hugo</title>
-      <link>http://localhost:1313/posts/2026-05-05-main-main-dengan-hugo/</link>
+      <link>http://localhost:1313/catatan-bun/posts/2026-05-05-main-main-dengan-hugo/</link>
       <pubDate>Wed, 06 May 2026 00:10:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/2026-05-05-main-main-dengan-hugo/</guid>
+      <guid>http://localhost:1313/catatan-bun/posts/2026-05-05-main-main-dengan-hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Perkara Hugo CMS</title>
-      <link>http://localhost:1313/posts/2026-05-05-perkara-hugo-cms/</link>
+      <link>http://localhost:1313/catatan-bun/posts/2026-05-05-perkara-hugo-cms/</link>
       <pubDate>Tue, 05 May 2026 12:52:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/2026-05-05-perkara-hugo-cms/</guid>
+      <guid>http://localhost:1313/catatan-bun/posts/2026-05-05-perkara-hugo-cms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Catatan Pertama</title>
-      <link>http://localhost:1313/posts/catatan-pertama/</link>
+      <link>http://localhost:1313/catatan-bun/posts/catatan-pertama/</link>
       <pubDate>Thu, 30 Apr 2026 14:54:09 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/catatan-pertama/</guid>
+      <guid>http://localhost:1313/catatan-bun/posts/catatan-pertama/</guid>
       <description></description>
       
     </item>
