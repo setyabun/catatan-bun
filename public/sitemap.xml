@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-30T15:01:46+07:00</lastmod>
-  </url><url>
+    <lastmod>2026-10-08T15:53:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/halo-dunia/</loc>
-    <lastmod>2026-04-30T15:01:46+07:00</lastmod>
-  </url><url>
+    <lastmod>2026-10-08T15:53:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-30T15:01:46+07:00</lastmod>
-  </url><url>
+    <lastmod>2026-10-08T15:53:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2026-05-05-main-main-dengan-hugo/</loc>
+    <lastmod>2026-05-06T00:10:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2026-05-05-perkara-hugo-cms/</loc>
+    <lastmod>2026-05-05T12:52:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/catatan-pertama/</loc>
     <lastmod>2026-04-30T14:54:09+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

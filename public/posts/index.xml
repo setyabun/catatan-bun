@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Catatan Bun</title>
+    <title>Posts on Catatan-Bun</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Catatan Bun</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 12:52:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Posts on Catatan-Bun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Setyabun</copyright>
+    <lastBuildDate>Thu, 08 Oct 2026 15:53:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Halo Dunia ! - Hello World !</title>
+      <link>http://localhost:1313/posts/halo-dunia/</link>
+      <pubDate>Thu, 08 Oct 2026 15:53:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/halo-dunia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Main main dengan Hugo</title>
+      <link>http://localhost:1313/posts/2026-05-05-main-main-dengan-hugo/</link>
+      <pubDate>Wed, 06 May 2026 00:10:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/2026-05-05-main-main-dengan-hugo/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Perkara Hugo CMS</title>
       <link>http://localhost:1313/posts/2026-05-05-perkara-hugo-cms/</link>
       <pubDate>Tue, 05 May 2026 12:52:00 +0700</pubDate>
+      
       <guid>http://localhost:1313/posts/2026-05-05-perkara-hugo-cms/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Selamat Siang&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ini menulis langsung dari CMS&lt;/p&gt;&#xA;&lt;p&gt;Oke deh&lt;/p&gt;</description>
+      <description></description>
+      
     </item>
-    <item>
-      <title>Halo Dunia</title>
-      <link>http://localhost:1313/posts/halo-dunia/</link>
-      <pubDate>Thu, 30 Apr 2026 15:01:46 +0700</pubDate>
-      <guid>http://localhost:1313/posts/halo-dunia/</guid>
-      <description>&lt;h3 id=&#34;selamat-datang-di-catatan-bun&#34;&gt;Selamat Datang di Catatan-Bun!&lt;/h3&gt;&#xA;&lt;p&gt;Ini adalah tulisan pertama saya setelah belajar Hugo lagi dari awal.&#xA;&lt;strong&gt;Rencana kedepan:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mencatat hasil &lt;em&gt;ngoprek&lt;/em&gt; STB.&lt;/li&gt;&#xA;&lt;li&gt;Dokumentasi setup server.&lt;/li&gt;&#xA;&lt;li&gt;Belajar Docker dan Cloudflare.&#xA;Siap-siap pusing lagi ah.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
+    
     <item>
       <title>Catatan Pertama</title>
       <link>http://localhost:1313/posts/catatan-pertama/</link>
       <pubDate>Thu, 30 Apr 2026 14:54:09 +0700</pubDate>
+      
       <guid>http://localhost:1313/posts/catatan-pertama/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>
