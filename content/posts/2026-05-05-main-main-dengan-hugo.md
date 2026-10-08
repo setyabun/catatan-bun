@@ -5,7 +5,7 @@ draft: false
 ---
 ![](/images/main-hugo.png)
 
-## **Victor Hugo** 
+## **Victor Hugo**
 
 beliau adalah sastrawan besar Prancis abad ke‑19, bisa dibilang pelopor aliran Romantisme, dan penulis karya Novel terkenal ***Les Misérables*** serta ***Notre-Dame de Paris***. Selain itu, beliau juga aktivis politik yang vokal membela hak asasi manusia dan menentang tirani.
 
@@ -26,7 +26,7 @@ Bapaknya adalah seorang perwira **Bonapartist**, tapi ibunya pendukung monarki. 
 * **Les Misérables (1862):** Kisah epik tentang keadilan, penebusan, dan penderitaan rakyat miskin Prancis. Novel ini menjadi simbol perjuangan melawan ketidakadilan sosial.
 * **Notre-Dame de Paris (1831):** Mengangkat kisah Quasimodo dan Esmeralda, sekaligus menyoroti keindahan arsitektur katedral Paris serta konflik sosial pada abad pertengahan.
 
-### Puisi 
+### Puisi
 
 * *Les Orientales* (1829)
 * *Les Contemplations* (1856)
@@ -49,11 +49,7 @@ Salah satu puisi nya di dalam kumulan Les Contemplations :
 >
 > `Emporte le bonheur et laisse-nous l'ennui!`
 >
-> `<br>`
->
-> ```
->
-> ```
+> `.`
 >
 > `Ici, l'on te retient; là-bas, on te désire.`
 >
